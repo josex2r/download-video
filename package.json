@@ -1,0 +1,11 @@
+{
+  "name": "download-video",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "^9.0.1",
+    "m3u8-parser": "^4.5.0",
+    "node-fetch": "^2.6.1"
+  }
+}
